@@ -3,7 +3,8 @@
 
 # 실행결과
 메인 페이지
-![image](https://user-images.githubusercontent.com/109999749/189040849-5d3f5790-cd45-4253-9ea6-c49e9628331b.png)
+![image](https://user-images.githubusercontent.com/109999749/235278399-ed383ed5-eaf6-4495-ac6f-3916ba140a73.png)
+
 
 About
 ![image](https://user-images.githubusercontent.com/109999749/189041304-5e1c81b9-24f9-45cb-9225-5b0232429bff.png)
